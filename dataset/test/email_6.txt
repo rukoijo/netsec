@@ -1,0 +1,20 @@
+Subject: Alert: Your Account Has Been Temporarily Suspended
+
+Dear User,
+
+Due to recent unusual activity on your account, we have been forced to temporarily suspend your account as a precautionary measure. Our security systems have detected multiple unauthorized login attempts and suspicious transactions that suggest your account may be compromised. Immediate action is required to restore full access.
+
+Please click on the secure link below to begin the reactivation process: [http://reactivate-your-account.com]. You will be guided through a series of steps including verifying your identity, resetting your password, and updating your security questions. This is a necessary step to ensure that your account remains secure.
+
+Failure to complete the reactivation process within 48 hours will result in a prolonged suspension, and you might face further restrictions on your account. Our records indicate that these measures are critical in preventing any potential financial or personal data theft.
+
+In the meantime, we urge you to review your recent account activity. If you notice any transactions that you did not authorize, please contact our fraud investigation team immediately at fraud@accountreactivation.com. You may also reach us via phone at 1-800-222-3333, available 24 hours a day.
+
+Our company has recently upgraded its security protocols and introduced new verification methods to safeguard our customers. Please note that all information submitted through our portal is encrypted and processed securely. We advise against sharing your account details with anyone, even if they claim to be from our security team.
+
+Your prompt response is essential to resume normal operations and secure your account against further unauthorized access. We appreciate your cooperation and apologize for any inconvenience caused by these necessary security measures.
+
+Thank you for your immediate attention.
+
+Sincerely,
+Account Suspension Department

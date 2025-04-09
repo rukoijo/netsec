@@ -1,0 +1,17 @@
+Subject: Immediate Action Needed: Confirm Your Identity
+
+Dear Customer,
+
+Due to several unauthorized access attempts on your account, we have temporarily restricted certain functions to protect your personal information. To restore full access, you must confirm your identity and update your account information immediately.
+
+Please click the secure link below to access our identity confirmation portal:
+[http://confirm-your-identity.com]
+
+At the portal, you will be required to provide your current login details, update your password, and answer multiple security questions. All data is transmitted securely using advanced encryption technology. We request that you complete this process within 24 hours to avoid further restrictions or a temporary account suspension.
+
+If you notice any suspicious activity or unauthorized transactions, please contact our fraud prevention department immediately at fraudprevention@secureidentity.com or call 1-800-444-5555.
+
+Thank you for your prompt cooperation.
+
+Sincerely,
+Identity Verification Team

@@ -1,0 +1,18 @@
+Dear Member,
+
+This is an urgent notification regarding your account status. Our security department has detected irregularities that suggest your account may have been compromised. Multiple failed login attempts have been recorded, and suspicious transactions have been flagged. As a precaution, we have temporarily suspended your account to prevent any further unauthorized activities.
+
+Immediate action is required on your part to reinstate your account. Please follow the secure link provided below and complete the identity verification process by providing your full name, account number, date of birth, and recent transaction details.
+
+Restore Your Account Here
+
+It is critical that you complete the verification process within the next 24 hours. If the verification is not successfully completed, your account will be permanently suspended, and you may be unable to recover your funds or access any services linked to your account. Our records indicate that there were several unauthorized access attempts from foreign IP addresses, and we are working diligently to track and prevent further security breaches.
+
+Furthermore, we recommend that you change any passwords associated with your account immediately after verification. This measure is essential to secure your account from any potential future threats. Should you have any questions or require assistance during the verification process, please contact our support team at support@example.com or call our emergency hotline at 1-800-987-6543.
+
+We apologize for any inconvenience this may cause; however, these measures are necessary to protect your sensitive information. Your security remains our highest priority, and we appreciate your prompt attention to this matter.
+
+Sincerely,
+
+Fraud Prevention Unit
+SecureNet Financial Services

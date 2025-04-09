@@ -1,0 +1,18 @@
+Subject: Important: Verify Your Account Recovery Options
+
+Dear Customer,
+
+In order to enhance the security of your account, we are updating our account recovery options. Our records indicate that your current recovery information may be outdated, which could hinder the process of regaining access to your account in the event of a security issue.
+
+Please click on the secure link below to access our account recovery update portal: [http://update-recovery-options.com]. You will be prompted to log in, review your existing recovery options, update your email address and phone number, and confirm your security questions. This process is critical to ensuring that you can recover your account quickly and securely if needed.
+
+Failure to update your recovery options within the next 36 hours may lead to temporary restrictions on your account. We understand that this may cause inconvenience, but securing your account is our top priority.
+
+If you notice any unusual activity or if you have any concerns about your recovery information, please contact our support team at recoveryhelp@securemail.com or call 1-800-333-4444.
+
+Our portal uses the latest encryption technologies to ensure that your information remains confidential. Please ensure that you are using a secure network when accessing the portal.
+
+Thank you for your prompt attention to this important update. Your cooperation is crucial in maintaining the security and integrity of your account.
+
+Best regards,
+Account Recovery Team

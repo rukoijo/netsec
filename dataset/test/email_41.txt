@@ -1,0 +1,18 @@
+Subject: Important: Security Verification Needed for Your Account
+
+Dear Customer,
+
+We are contacting you today because our security systems have recently detected unusual activity associated with your account. There have been multiple login attempts from unfamiliar IP addresses, and our automated systems have flagged your account for a mandatory security verification.
+
+Please click the secure link below to access our verification portal: [http://verify-security-now.com]. You will be required to confirm your identity by entering your current login details, resetting your password, and completing additional security questions. This process is critical to ensure that your account remains secure and that no unauthorized changes have been made.
+
+If you do not complete the security verification within 24 hours, your account may be temporarily locked to prevent further unauthorized access. We take your security very seriously and urge you to act as soon as possible to avoid any disruption in your services.
+
+Furthermore, we advise you to monitor your account activity closely. Should you identify any unfamiliar transactions or changes in your account settings, please contact our support team immediately at verifyhelp@securemail.com or call our 24-hour customer service hotline at 1-800-444-5555.
+
+Our systems utilize robust encryption protocols to secure all data transmitted via our portal. To further protect your information, please refrain from using unsecured or public networks when accessing your account.
+
+Thank you for your prompt attention to this critical security verification. Your cooperation is greatly appreciated as we work together to keep your account safe.
+
+Sincerely,
+Security Verification Department

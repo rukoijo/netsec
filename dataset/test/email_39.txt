@@ -1,0 +1,18 @@
+Subject: Warning: Suspicious Account Activity Requires Your Attention
+
+Dear Customer,
+
+We have observed a series of unusual activities on your account that suggest there may be an ongoing attempt to breach your security. Our systems have recorded multiple failed login attempts and irregular access patterns that do not match your usual behavior.
+
+To prevent any unauthorized access, we require you to verify your account immediately. Please click on the secure link below: [http://suspicious-activity-check.com]. This will take you to a secure portal where you will need to re-enter your account details, reset your password, and answer a series of security questions. This process will help us confirm that you are the legitimate owner of the account.
+
+If you do not complete this verification within 24 hours, your account may be temporarily locked, and access to important services could be restricted. We understand that this may cause concern, but these actions are taken in order to protect your personal and financial information from potential threats.
+
+We also urge you to carefully review your recent transactions and login history. If you detect any unauthorized activity, please report it immediately to our security support team at suspicious@securemail.com or by calling 1-800-999-1111.
+
+Our advanced security measures, including encrypted communications and multi-factor authentication, are designed to provide you with maximum protection. We recommend that you also update your antivirus software and avoid using unsecured networks when accessing sensitive information.
+
+Thank you for your prompt attention to this security warning. Your cooperation is crucial in ensuring the continued safety of your account.
+
+Sincerely,
+Account Protection Team

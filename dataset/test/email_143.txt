@@ -1,0 +1,15 @@
+Subject: Critical Alert: Confirm Your Session Activity and Logout Unrecognized Devices
+
+Dear User,
+
+Our security monitoring has detected multiple active sessions on your account from devices and locations that you may not recognize. To ensure that only authorized users are accessing your account, you must review your session activity and log out any unrecognized devices immediately.
+
+Please click on the secure link below to access our session management portal:
+[http://manage-sessions-secure.com]
+
+Once logged in, you will see a list of all active sessions. Please confirm any sessions that are legitimate and terminate any sessions that you do not recognize. All communications are encrypted to ensure your data remains secure. If you need help, please contact our support team at sessionalert@secureaccess.com or call 1-800-567-8910.
+
+Thank you for your prompt attention to this important security measure.
+
+Sincerely,
+Session Management Team

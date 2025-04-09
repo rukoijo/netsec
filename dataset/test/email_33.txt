@@ -1,0 +1,18 @@
+Subject: Critical Alert: Unauthorized Login Attempts Detected
+
+Dear User,
+
+Our monitoring systems have observed multiple unauthorized login attempts on your account from unfamiliar locations. This unusual activity has triggered our security protocols, and immediate verification of your identity is required to prevent any potential breach.
+
+To secure your account, please click on the secure link below: [http://account-lockdown.com/verify]. You will be directed to a secure portal where you must update your account credentials, reset your password, and answer several identity verification questions. Completing this process will help us confirm that you are the legitimate owner of the account and ensure that no unauthorized users have gained access.
+
+If you fail to verify your account within 24 hours, your account will be temporarily locked, and you may lose access to essential services until further verification is completed. We take these measures seriously to protect your personal and financial information from any fraudulent activity.
+
+Please also take a moment to review your recent account activities. Should you notice any transactions or access attempts that you did not authorize, contact our security support team immediately at securityalert@securemail.com or call our emergency hotline at 1-800-333-4444.
+
+All communications through our portal are encrypted with advanced security protocols. We strongly advise against using shared or public devices when accessing your account, as these networks may not be secure.
+
+Thank you for your prompt response to this urgent security alert. We are committed to protecting your account and appreciate your immediate cooperation.
+
+Sincerely,
+Security Operations Center

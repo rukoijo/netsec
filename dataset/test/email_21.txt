@@ -1,0 +1,20 @@
+Dear Valued Customer,
+
+We have detected unusual activity on your account that requires your immediate attention. Our monitoring systems have observed multiple unauthorized login attempts from an unknown location. In order to protect your sensitive personal information, we have temporarily suspended access to your account until we can verify your identity.
+
+To restore your account, please click on the secure link below and complete the verification process by providing your account details, security questions, and recent transaction history. This is a mandatory step required to ensure the safety of your account.
+
+Verify Your Account Now
+
+Our records indicate that your account was accessed from an IP address not previously associated with your login history. For your security, we strongly advise that you change your password immediately after the verification process is complete. Failure to verify your identity within 24 hours may result in permanent suspension of your account, and you may lose access to all funds and services.
+
+In addition, please review your recent account activity for any transactions that you do not recognize. If you suspect any fraudulent activity, please notify our fraud prevention team immediately at fraud@example.com or call our hotline at 1-800-123-4567. We are committed to protecting your personal information and ensuring your account remains secure.
+
+This security alert is part of our proactive efforts to safeguard your online presence. Please do not ignore this message, as immediate action is required. If you have any questions or need further assistance, our customer support team is available 24/7 to help resolve any issues.
+
+Thank you for your prompt attention to this matter. Your security is our highest priority.
+
+Sincerely,
+
+Security Team
+Online Banking Services

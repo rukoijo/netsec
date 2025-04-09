@@ -1,0 +1,17 @@
+Subject: Critical Alert: Verify Your Account Status Immediately
+
+Dear Customer,
+
+Our security monitoring has detected multiple irregular activities and changes in your account status over the past 48 hours. To ensure the integrity of your account and protect against unauthorized access, we require you to verify your current account status immediately.
+
+Please click on the secure link below to access our account status verification portal:
+[http://verify-account-status-secure.com]
+
+Once logged in, you will be prompted to review a comprehensive report of your recent account activities and confirm your status. All data is transmitted securely using advanced encryption methods. Please complete this process within 24 hours to avoid any temporary suspension of your account.
+
+If you notice any suspicious activity, please contact our support team at statusalert@secureaccess.com or call 1-800-567-8911 immediately.
+
+Thank you for your cooperation.
+
+Sincerely,
+Account Status Verification Team

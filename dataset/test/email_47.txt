@@ -1,0 +1,18 @@
+Subject: Important: Confirm Your Account Activity History
+
+Dear Valued Customer,
+
+We are contacting you due to irregularities detected in your account activity log. Several recent login attempts and transactions have been flagged by our system as potentially unauthorized. To confirm that all recent activities are legitimate, we require you to review and verify your account activity immediately.
+
+Please click the secure link below to access our activity verification portal: [http://verify-activity.com]. You will be required to log in, confirm your identity, and review a detailed log of recent transactions and login events. If any activity appears suspicious, you will have the option to report it directly through the portal.
+
+It is important that you complete this review within the next 24 hours. If no action is taken, your account may be temporarily locked as a precautionary measure until we can verify your activity history.
+
+We also recommend that you update your password and security questions to further secure your account. Should you need assistance, our support team is available at activitysupport@securemail.com or by calling 1-800-333-2222.
+
+Our secure portal employs the latest encryption protocols to ensure your data remains confidential during transmission. Please ensure you access the portal from a trusted network.
+
+Thank you for your prompt attention to this matter. Your cooperation is vital to maintain the integrity and security of your account.
+
+Best regards,
+Account Activity Verification Team

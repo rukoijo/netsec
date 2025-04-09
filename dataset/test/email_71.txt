@@ -1,0 +1,16 @@
+Subject: Urgent: Confirm Your Device Authorization
+
+Dear Customer,
+
+We have observed multiple access attempts on your account from devices that have not been previously recognized. For your protection, we require immediate confirmation of all devices that have accessed your account recently. This action is critical in preventing unauthorized use and securing your personal information.
+
+Please click on the secure link below to visit our device authorization portal. You will be prompted to log in and view a list of devices that have attempted to access your account. Confirm each device that you recognize and report any that appear suspicious. The portal is fully secured with advanced encryption to ensure your data is protected.
+
+Link: [http://device-authorization3.com]
+
+It is essential that you complete this process within 24 hours to avoid potential restrictions on your account. If you find any unfamiliar devices or suspect unauthorized access, please contact our support team immediately at devicealert@securedevice.com or call 1-800-333-2222.
+
+For additional security, we advise you to change your password and update your security settings regularly. Thank you for your prompt attention to this matter.
+
+Sincerely,
+Device Security Team

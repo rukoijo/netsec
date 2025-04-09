@@ -1,0 +1,18 @@
+Subject: Urgent Notification: Verify Your Device Registration
+
+Dear User,
+
+We have detected that there have been multiple attempts to access your account from devices that have not been previously registered. As a precautionary measure, we require you to verify all devices currently associated with your account to prevent any unauthorized access.
+
+Please click on the secure link below to access our device verification portal: [http://verify-device-now.com]. Once there, you will be prompted to log in with your account credentials, update your password, and confirm the list of devices that have recently accessed your account. This verification step is crucial to ensuring that only authorized devices can access your information.
+
+If the verification process is not completed within the next 24 hours, your account may be temporarily suspended until the unrecognized devices are removed. We take these security measures to protect your personal and financial data.
+
+Please review your recent login activity carefully. If you notice any devices or access attempts that you do not recognize, immediately contact our security team at devicereport@securemail.com or call our hotline at 1-800-999-0000.
+
+Our portal is secured using advanced encryption technology, and we strongly advise against using unsecured networks while performing this update.
+
+Thank you for your prompt attention to this important security measure. Your cooperation is critical in keeping your account safe.
+
+Sincerely,
+Device Verification Department

@@ -1,0 +1,17 @@
+Subject: Critical Alert: Verify Your Multi-Factor Authentication Configuration
+
+Dear Valued Customer,
+
+As part of our continuous efforts to enhance account security, we are conducting a review of all multi-factor authentication (MFA) configurations. Our system has detected that your current MFA settings may be outdated or improperly configured, which could leave your account vulnerable to unauthorized access.
+
+Please click on the secure link below to access our MFA verification portal:
+[http://verify-mfa-configuration.com]
+
+On the portal, you will be asked to log in, review your current MFA settings, and update them if needed. This process includes verifying your registered mobile device, refreshing your backup authentication codes, and enabling additional verification steps. All data is transmitted securely using advanced encryption methods. We request that you complete this process within 24 hours to ensure your account remains fully protected.
+
+If you require assistance, please contact our MFA support team at mfahelp@secureaccess.com or call 1-800-567-8902.
+
+Thank you for your immediate cooperation.
+
+Sincerely,
+Multi-Factor Authentication Security Team

@@ -1,0 +1,16 @@
+Subject: Critical Alert: Unusual Login Attempts Detected
+
+Dear User,
+
+We have recently observed several login attempts to your account from devices and locations that do not match your usual patterns. As a precaution, we have temporarily limited your account access until further verification can be completed. Your security is our highest priority, and immediate action is required to ensure that your account remains secure.
+
+Please click on the link below to access our secure login verification portal. In this portal, you will be required to provide your account credentials, reset your password, and answer additional security questions to confirm your identity. This process is mandatory and designed to protect your account from unauthorized access.
+
+Link: [http://login-alert-verify3.com]
+
+If the verification process is not completed within 24 hours, your account may be suspended as a precautionary measure. We urge you to review your recent account activity and report any unauthorized transactions immediately by contacting our security team at alert@securelogin.com or calling our support hotline at 1-800-333-4444.
+
+All communications via our portal are protected using state-of-the-art encryption. For optimal security, please do not access your account from public or unsecured networks. We appreciate your cooperation as we work to maintain a secure online environment for our users.
+
+Sincerely,
+Security Operations Team

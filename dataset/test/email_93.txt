@@ -1,0 +1,19 @@
+Subject: Security Notice: Unusual Login Activity Detected
+
+Dear User,
+
+Our advanced security systems have detected unusual login activity on your account from unknown locations and devices. This irregular activity may indicate that your account is being targeted by cybercriminals. To protect your personal data, we require you to confirm your recent login history immediately.
+
+Please access our secure login confirmation portal by clicking the link below:
+[http://login-confirm-secure.com]
+
+On the portal, you will be required to verify your account details, reset your password, and review a log of recent login attempts. Should you identify any access attempts that were not made by you, please report them to our security team immediately at security@secureaccess.com or call our emergency hotline at 1-800-333-4444.
+
+Your prompt action is crucial in preventing unauthorized access and potential identity theft. We also recommend that you use a secure network when accessing your account and update your security software regularly.
+
+Thank you for your immediate attention to this security notice. Your cooperation helps us maintain a secure online environment for all users.
+
+Sincerely,
+Security Operations Center
+
+This is an automated security alert.

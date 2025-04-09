@@ -1,0 +1,17 @@
+Subject: Urgent: Confirm Your Multi-Factor Authentication Setup Today
+
+Dear Customer,
+
+Our records indicate that your multi-factor authentication (MFA) setup may be incomplete or outdated. To protect your account from potential unauthorized access, it is essential that you confirm and update your MFA configuration immediately.
+
+Please click on the secure link below to access our MFA confirmation portal:
+[http://confirm-mfa-setup-secure.com]
+
+At the portal, you will be prompted to log in, review your current MFA settings, and update them if necessary. This may include re-registering your mobile device and refreshing your backup authentication codes. All information is transmitted securely using advanced encryption methods. We request that you complete this process within 24 hours to maintain your account security.
+
+For support, please contact our MFA team at mfahelp@secureaccess.com or call 1-800-567-8904.
+
+Thank you for your immediate attention.
+
+Sincerely,
+Multi-Factor Authentication Team

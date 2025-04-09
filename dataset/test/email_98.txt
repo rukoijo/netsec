@@ -1,0 +1,19 @@
+Subject: Immediate Action: Secure Your Profile Information
+
+Dear Customer,
+
+We have observed several unauthorized attempts to modify your profile information on our platform. These attempts pose a serious risk to the security of your personal data. To prevent any misuse, it is imperative that you secure your profile immediately.
+
+Please visit our secure profile update portal by clicking the link below:
+[http://profile-secure-update.com]
+
+Once on the portal, you will be required to log in, verify your current profile details, and update your password along with your security questions. The portal uses state-of-the-art encryption to safeguard your data. We request that you complete this process within the next 24 hours to avoid any service disruption.
+
+If you detect any unauthorized changes in your account, please notify our support team at profilesupport@secureupdate.com or call 1-800-444-7777.
+
+Thank you for your cooperation in keeping your account secure.
+
+Sincerely,
+Profile Security Team
+
+This is an automated alert.

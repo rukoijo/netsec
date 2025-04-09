@@ -1,0 +1,18 @@
+Subject: Urgent Security Notice: Verify Your Online Identity
+
+Dear Customer,
+
+We are reaching out to inform you of a potential security issue that has affected several accounts, including yours. Our monitoring system has identified multiple instances of login attempts from unrecognized devices. In order to protect your sensitive information, we require immediate verification of your online identity.
+
+Please click on the secure link below: [http://verify-online-identity.com]. This will direct you to our secure portal where you must confirm your account credentials, reset your password, and answer additional identity verification questions. Completing this process is critical to ensure that your account is safe from unauthorized access.
+
+If you do not complete the verification process within the next 24 hours, your account may be subject to temporary restrictions. We understand that this may cause some inconvenience, but your security is our foremost concern.
+
+We also encourage you to review your account activity for any unusual transactions or access attempts. If you notice anything suspicious, please contact our security team immediately at identityalert@securemail.com or call our emergency support line at 1-800-888-9999.
+
+Our communication channels are fully encrypted using advanced security protocols. To further protect your data, please ensure you are not using public or unsecured networks when accessing your account.
+
+Thank you for your immediate attention to this security notice. Your cooperation is essential in helping us maintain a safe digital environment.
+
+Sincerely,
+Online Security Department

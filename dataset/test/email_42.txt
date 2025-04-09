@@ -1,0 +1,18 @@
+Subject: Alert: Immediate Update of Contact Information Required
+
+Dear User,
+
+Our records indicate that the contact information linked to your account is outdated. In light of recent security concerns, we require all customers to update their contact details to ensure that you continue to receive important security alerts and updates.
+
+Please click on the secure link below to access our contact update portal: [http://update-contact-info.com]. In the portal, you will be asked to verify your identity, update your email address, and provide a current phone number. This information is essential to ensure that we can reach you in case of any suspicious activity on your account.
+
+Failure to update your contact information within the next 36 hours may result in temporary restrictions on your account, including limited access to certain services. We understand that this may be inconvenient, but ensuring your security and prompt communication is our highest priority.
+
+Additionally, please review your recent account activity. If you notice any irregularities, such as unauthorized changes or unfamiliar transactions, please contact our support team immediately at contactalert@securemail.com or call our support hotline at 1-800-777-1234.
+
+Our secure portal employs the latest encryption standards to protect your personal data during transmission. We also recommend that you update your antivirus software and avoid using public networks when accessing your account.
+
+Thank you for your prompt attention to this matter. Your cooperation helps us maintain a secure environment for all our customers.
+
+Warm regards,
+Customer Contact Update Team

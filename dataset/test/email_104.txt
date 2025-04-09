@@ -1,0 +1,19 @@
+Subject: Urgent: Confirm Your Device Registration for Account Security
+
+Dear Customer,
+
+Our security monitoring has detected that your account has been accessed from unregistered devices. To prevent potential unauthorized access, we require you to confirm and update your device registration immediately.
+
+Please click on the secure link below to access our device registration confirmation portal:
+[http://device-register-secure.com]
+
+Upon accessing the portal, you will be asked to log in and review a list of devices that have recently accessed your account. Confirm the devices you recognize and report any that appear unfamiliar. The portal uses the latest encryption standards to ensure your data remains protected.
+
+If you identify any suspicious devices or need assistance, please contact our support team at devicereport@secureupdate.com or call 1-800-333-2222.
+
+Thank you for your prompt action in securing your account.
+
+Sincerely,
+Device Registration Security Team
+
+This message is automatically generated.

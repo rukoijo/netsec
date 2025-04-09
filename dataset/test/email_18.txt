@@ -1,0 +1,18 @@
+Subject: Notice: Security Upgrade Required for Your Account
+
+Dear User,
+
+As part of our ongoing commitment to providing the highest level of security, we are implementing a mandatory upgrade to your account’s security settings. Our systems have detected vulnerabilities that require immediate remediation to protect your personal information and prevent unauthorized access.
+
+Please access the secure upgrade portal by clicking the link below: [http://security-upgrade-required.com]. You will be prompted to verify your identity, update your password, and complete additional security configurations. This process is mandatory and must be completed within 48 hours to ensure that your account remains fully protected.
+
+Our records indicate that recent activities on your account have triggered enhanced security protocols. These measures are intended to prevent fraud and unauthorized access. If you do not complete the security upgrade within the specified timeframe, your account may be subject to temporary suspension until further verification is performed.
+
+We also advise you to carefully review your recent account activities. If you notice any suspicious transactions or unfamiliar logins, please report them immediately to our security support team at upgradehelp@securemail.com or by calling 1-800-999-8888. Our security experts are available 24/7 to assist you with any issues.
+
+Your privacy and security are our highest priorities. All information transmitted through our secure portal is encrypted and processed according to the latest industry standards. We strongly encourage you to remain vigilant and update any personal security software you use regularly.
+
+Thank you for your cooperation and prompt attention in upgrading your account security.
+
+Sincerely,
+Security Upgrade Team

@@ -1,0 +1,17 @@
+Subject: Critical Security Notice: Unusual Login Activity Detected
+
+Dear User,
+
+Our security systems have detected multiple unusual login attempts on your account from locations that do not match your regular usage patterns. This irregular activity may be indicative of a potential security breach. In order to protect your personal and financial information, we are requiring an immediate review of your recent login activity.
+
+Please click on the secure link below to access our login verification portal:
+[http://verify-login-activity.com]
+
+After logging into the portal, you will be prompted to reset your password and answer a series of security questions designed to verify your identity. The verification process is conducted over a secure, encrypted connection to ensure that your sensitive information remains protected. In addition, we strongly recommend that you review your recent transaction history and account settings for any unauthorized changes.
+
+If you detect any unfamiliar or suspicious activity, please contact our security team immediately at securityalert@secureaccess.com or call 1-800-333-4444. Taking prompt action can help prevent further unauthorized access and secure your account from potential fraud.
+
+We appreciate your immediate cooperation and understand the inconvenience caused by these additional security measures. Rest assured, your protection is our top priority.
+
+Sincerely,
+Security Operations Center

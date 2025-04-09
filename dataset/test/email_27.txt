@@ -1,0 +1,20 @@
+Dear Customer,
+
+We are reaching out to inform you of a critical update required for your account due to recent security enhancements. Our system has detected outdated security information that must be updated immediately to prevent unauthorized access and ensure the continued security of your account.
+
+Please click on the link below to initiate the update process. You will be prompted to verify your identity by providing your current password, answering your security questions, and confirming your recent account activity. This step is essential in maintaining a secure environment for all users.
+
+Update Your Account Now
+
+We cannot stress enough the importance of completing this update within the next 48 hours. Failure to update your information may result in temporary suspension of your account, as well as restricted access to various services. Our records indicate that several security vulnerabilities were detected during our routine system scan, and this update is designed to address these issues promptly.
+
+Should you require any assistance during this process, our dedicated support team is available around the clock at helpdesk@example.com or by calling 1-800-777-8888. We also recommend that you take this opportunity to review your recent account activity for any unusual transactions and update your password to a stronger, more secure one.
+
+We apologize for any inconvenience caused and appreciate your prompt attention to this matter. Your security is our top priority, and these measures are in place to safeguard your personal and financial information.
+
+Thank you for your cooperation.
+
+Sincerely,
+
+Account Security Team
+DigitalTrust Bank

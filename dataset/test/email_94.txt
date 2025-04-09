@@ -1,0 +1,19 @@
+Subject: Action Required: Confirm Your Identity to Prevent Account Suspension
+
+Dear Client,
+
+Due to recent suspicious activities on your account, we are requiring all users to confirm their identity immediately. Our records show multiple failed login attempts and unrecognized access attempts that could indicate potential fraudulent activities.
+
+Please click on the secure link below to verify your identity:
+[http://identity-verify-secure.com]
+
+At the verification portal, you will be prompted to provide your current login details, update your password, and answer additional security questions. This procedure is designed to ensure that only authorized users have access to the account. We request that you complete this verification within the next 24 hours to avoid any temporary suspension of your account.
+
+If you notice any unauthorized transactions or changes in your account, please contact our fraud department immediately at fraudsupport@secureidentity.com or call 1-800-444-5555.
+
+Thank you for your prompt cooperation. Protecting your account is our highest priority.
+
+Best regards,
+Identity Verification Team
+
+Please note: This is a system-generated message; do not reply.
