@@ -1,6 +1,7 @@
 import joblib
 import os
 import pandas as pd
+import numpy as np
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -21,9 +22,23 @@ for file_name in os.listdir(test_dir):
             emails.append(content)
             filenames.append(file_name)
 
-X_test = vectorizer.transform(emails)
+class_labels = ["Normal", "Human-Phishing", "AI-Phishing"]
 
-predictions = model.predict(X_test)
+def predict_emails(emails):
+    X_test = vectorizer.transform(emails)
 
-results = pd.DataFrame({'filename': filenames, 'prediction': predictions})
-results.to_csv('test_predictions.csv', index=False)
+    # predictions = model.predict(X_test)
+    probs = model.predict_proba(X_test)[0]  # 각 클래스 확률
+    label_index = np.argmax(probs)
+    return class_labels[label_index], probs[label_index]
+    # results = pd.DataFrame({'filename': filenames, 'prediction': predictions})
+    # results.to_csv('test_predictions.csv', index=False)
+
+if __name__ == "__main__":
+    results = []
+    for email in emails:
+        label, confidence = predict_emails([email])
+        results.append((label, confidence))
+    
+    for filename, (label, confidence) in zip(filenames, results):
+        print(f"File: {filename}, Prediction: {label}, Confidence: {confidence:.2%}")
