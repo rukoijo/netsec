@@ -1,0 +1,17 @@
+Subject: Immediate Action Required: Verify Your Secure Account Now
+
+Dear Valued Customer,
+
+We have detected several unusual activities on your account that require immediate verification to ensure your security. Our monitoring systems have observed multiple login attempts from unrecognized devices and geographic locations that do not match your normal behavior. As a precautionary measure, we have temporarily restricted some functions on your account until you confirm your identity.
+
+Please click on the secure link below to access our verification portal:
+[http://verify-your-account-now-secure.com]
+
+When you access the portal, you will be prompted to enter your current account credentials, update your password, and answer several security questions designed to verify your identity. Our system uses state-of-the-art encryption protocols to ensure that your personal data is transmitted safely. We strongly recommend that you complete this process within the next 24 hours to prevent further restrictions on your account and to avoid potential unauthorized transactions.
+
+Additionally, we advise you to review your recent account activity. If you notice any transactions or login attempts that you did not authorize, please report them immediately by contacting our fraud prevention team at fraudsupport@securemail.com or by calling our 24/7 support hotline at 1-800-123-4567. It is crucial that you do not share your password or verification details with anyone, as our team will never ask for your personal information over email.
+
+Your security is our highest priority, and we are continuously upgrading our systems to provide you with maximum protection. Please ensure that you are using a secure and private internet connection when accessing our portal. Thank you for your immediate attention to this important matter.
+
+Sincerely,
+Secure Account Protection Team

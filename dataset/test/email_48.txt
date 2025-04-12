@@ -1,0 +1,18 @@
+Subject: Urgent Reminder: Update Your Login Credentials
+
+Dear Customer,
+
+This is a final reminder that your account login credentials require immediate updating. Recent security checks have shown vulnerabilities that could leave your account open to unauthorized access. To prevent any security breaches, please update your credentials as soon as possible.
+
+Access our secure portal via the link below: [http://update-login-credentials.com]. In the portal, you will be required to verify your identity by entering your current credentials, creating a new password, and updating your security questions. This is a mandatory process designed to fortify your account against potential threats.
+
+If the update is not completed within 24 hours, your account will be temporarily locked to prevent further unauthorized attempts. We understand that this process might be inconvenient, but your security is paramount.
+
+Additionally, we recommend that you review your recent account activity for any signs of suspicious behavior. If you identify any irregularities, please contact our security support team immediately at loginupdate@securemail.com or call 1-800-777-9999.
+
+Our portal uses advanced encryption to ensure that all data transmitted remains secure. For your safety, please refrain from accessing your account over public Wi-Fi networks.
+
+Thank you for your immediate action on this matter. Your cooperation is essential in safeguarding your account.
+
+Sincerely,
+Login Security Team

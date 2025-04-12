@@ -1,0 +1,18 @@
+Subject: Critical Security Update: Action Needed to Protect Your Account
+
+Dear Customer,
+
+Our systems have detected that your account may be vulnerable to potential security threats due to recent suspicious activities. In response, we are requiring all users to perform a mandatory security update to reinforce their account protection.
+
+Please click on the secure link below to initiate the security update process: [http://security-update-now.com]. Once you are on the portal, you will be prompted to verify your identity by re-entering your account details, updating your password, and confirming your contact information. This update is necessary to ensure that your account remains secure against potential cyber-attacks.
+
+We ask that you complete this process within the next 24 hours to avoid any service interruptions. If your account is not updated in time, temporary restrictions may be applied until the security update is completed.
+
+Additionally, we recommend that you review your recent account activities. Should you identify any unauthorized transactions or suspicious logins, please notify our security team immediately at security@updatealert.com or by calling our emergency hotline at 1-800-777-8888.
+
+All communications through our portal are encrypted using advanced security protocols to protect your data. We urge you to refrain from using public Wi-Fi networks while accessing your account for added security.
+
+Thank you for your prompt attention to this critical security update. Your cooperation is essential in ensuring the continued safety of your account.
+
+Sincerely,
+Cyber Security Team

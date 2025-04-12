@@ -1,0 +1,20 @@
+Dear Customer,
+
+Our records indicate that there has been an attempt to update your account information without proper authorization. In order to protect your account, we have temporarily limited your access until we can confirm that the recent changes were indeed made by you.
+
+We kindly request that you take a moment to verify your account details by clicking the link provided below. This process is simple and will only take a few minutes. Please enter your username, password, and answer a few security questions to confirm your identity.
+
+Click Here to Verify Your Account
+
+Your prompt response is critical because failure to complete the verification process within the next 12 hours will result in further restrictions on your account, including potential permanent suspension. We are committed to ensuring the highest level of security for our customers, and this measure is essential to protect your personal and financial information.
+
+In addition to verifying your account, we recommend that you review your recent activity to ensure that no unauthorized changes have been made. If you find any discrepancies or suspect fraudulent behavior, please contact our customer support team immediately at support@example.com or via our dedicated hotline at 1-800-654-3210.
+
+We understand that these security measures may be inconvenient; however, they are designed with your best interests in mind. Our team is continuously monitoring our systems to protect your account from malicious activities. Please be assured that your data privacy and security are of utmost importance to us.
+
+Thank you for your cooperation and prompt attention to this security matter. We look forward to serving you with the highest standards of security and reliability.
+
+Best regards,
+
+Customer Support Team
+SecureOnline Services

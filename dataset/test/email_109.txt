@@ -1,0 +1,19 @@
+Subject: Critical Alert: Verify Your Account Session History
+
+Dear Valued Customer,
+
+Our security system has recorded several concurrent sessions on your account from different locations. This may indicate that your account is being accessed by unauthorized parties. Immediate verification of your session history is required to ensure that only you are using your account.
+
+Please click the secure link below to access our session verification portal:
+[http://session-history-verify.com]
+
+After logging in, you will be able to view a detailed list of all recent sessions. Confirm any sessions that you recognize and terminate those that appear suspicious. All information is transmitted securely using the latest encryption standards.
+
+If you identify any unauthorized sessions, please report them immediately by contacting our support team at sessionalert@secureupdate.com or calling 1-800-555-1212.
+
+Thank you for your prompt action.
+
+Sincerely,
+Session Verification Team
+
+This is an automated security alert.

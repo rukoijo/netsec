@@ -1,0 +1,17 @@
+Subject: Critical Alert: Unusual Login Attempts Detected on Your Account
+
+Dear User,
+
+Our security systems have detected several unusual login attempts on your account from various locations that do not match your regular usage pattern. This irregular activity could be an indication of a potential security breach. In order to safeguard your personal and financial information, we require you to immediately verify your account details.
+
+Please click on the secure link below to access our login verification portal:
+[http://verify-login-activity-secure.com]
+
+Once you access the portal, you will be prompted to log in, reset your password, and answer a series of security questions to confirm your identity. All information provided will be transmitted via secure, encrypted channels. We urge you to complete this process within 24 hours to prevent your account from being locked due to suspicious activities.
+
+If you observe any transactions or login attempts that you do not recognize, please report them immediately by contacting our security team at securityalert@secureaccess.com or calling our support hotline at 1-800-345-6789. Do not share your login credentials with anyone, as our official communication will never request such information.
+
+Your safety is our top priority, and we are continuously enhancing our security measures to protect you. Thank you for your immediate cooperation.
+
+Best regards,
+Security Operations Center

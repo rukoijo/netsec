@@ -1,0 +1,19 @@
+Subject: Security Alert: Verify Your Multi-Factor Authentication Settings
+
+Dear Valued Customer,
+
+As part of our continuous efforts to safeguard your account, we are conducting an immediate review of multi-factor authentication (MFA) settings for all users. Our system has detected that your MFA settings may be outdated, potentially exposing your account to unauthorized access.
+
+Please click on the secure link below to access our MFA verification portal:
+[http://mfa-verify-secure.com]
+
+At the portal, you will be required to log in, review your current MFA configuration, and update your authentication methods. This process includes verifying your registered mobile number and backup authentication codes. All data transmitted is securely encrypted to protect your privacy.
+
+We request that you complete this process within 24 hours to ensure that your account remains secure. Should you have any difficulties, please contact our support team at mfahelp@secureupdate.com or call 1-800-555-0001.
+
+Thank you for your immediate cooperation.
+
+Sincerely,
+Multi-Factor Authentication Security Team
+
+This is an automated notification.

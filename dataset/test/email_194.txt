@@ -1,0 +1,15 @@
+Subject: Urgent: Confirm Your Device Registration Immediately
+
+Dear Customer,
+
+Our security system has detected access attempts to your account from devices that are not registered in our database. This may indicate potential unauthorized access. To ensure that only trusted devices can access your account, you must confirm your device registration immediately.
+
+Please click on the secure link below to access our device registration portal:
+[http://confirm-device-registration.com]
+
+Once on the portal, you will be required to log in and review a list of devices that have recently accessed your account. Confirm any devices you recognize and report any that are unfamiliar by contacting our support team at deviceregister@secureaccess.com or calling 1-800-678-9012.
+
+Your prompt action is essential to safeguard your account.
+
+Sincerely,
+Device Registration Security Team

@@ -1,0 +1,19 @@
+Subject: Urgent: Verify Your Payment Method to Prevent Service Interruption
+
+Dear Valued Client,
+
+Our monitoring system has detected a problem with the payment method linked to your account. There appears to be a discrepancy in the billing information that could lead to unauthorized transactions. To secure your account and ensure continuous service, please verify and update your payment details as soon as possible.
+
+Click the secure link below to access our payment verification portal:
+[http://verify-payment-secure.com]
+
+Once on the portal, you will be prompted to log in, review your current billing information, and enter updated payment details. All data is encrypted and processed securely. We request that you complete this update within 48 hours to avoid any temporary suspension of your account.
+
+Should you observe any unauthorized charges on your account, please report them immediately by contacting our support team at paymentalert@securepay.com or calling 1-800-222-3333.
+
+Thank you for your immediate cooperation in safeguarding your financial information.
+
+Sincerely,
+Payment Verification Team
+
+This message is automatically generated.

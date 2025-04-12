@@ -1,0 +1,17 @@
+Subject: Critical Security Alert: Suspicious Login Activity Detected
+
+Dear User,
+
+Our advanced security systems have detected unusual login activity on your account from locations that do not match your typical behavior. This anomaly may indicate that unauthorized parties are attempting to access your account. To prevent any potential breach, you must review and verify your recent login activity immediately.
+
+Please click the secure link below to access our login verification portal:
+[http://suspicious-login-verify.com]
+
+After logging in, you will be prompted to reset your password and answer a series of security questions to confirm your identity. Our portal is secured with the latest encryption standards to ensure your data is protected. We urge you to complete this process within 24 hours to prevent your account from being locked.
+
+If you detect any unfamiliar transactions or other irregular activity, contact our security team immediately at securityalert@secureaccess.com or call 1-800-333-4444.
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+Security Operations Center

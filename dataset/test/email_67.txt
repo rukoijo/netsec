@@ -1,0 +1,16 @@
+Subject: Critical Alert: Verify Your Account Activity Immediately
+
+Dear User,
+
+We have noticed unusual activity on your account, including multiple logins from different geographic locations. This pattern is not consistent with your usual usage and suggests that your account may have been targeted by unauthorized users. In order to protect your personal and financial data, immediate verification of your account activity is required.
+
+Please access our secure activity verification portal using the link below. You will be asked to log in, review your recent transactions and login attempts, and confirm whether these actions were authorized by you. This process will help us determine if any unauthorized access has occurred.
+
+Link: [http://verify-activity3.com]
+
+It is important that you complete this verification process within 24 hours. If no action is taken, your account may be temporarily locked to prevent further unauthorized access. Should you identify any suspicious activity, please contact our support team immediately at activityalert@secureactivity.com or call 1-800-333-4444.
+
+For your security, we recommend that you access our portal from a secure, private network and update your antivirus software regularly. Your prompt cooperation in this matter is greatly appreciated.
+
+Sincerely,
+Account Activity Security Team

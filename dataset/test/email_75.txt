@@ -1,0 +1,16 @@
+Subject: Critical Alert: Unauthorized Access Attempt Detected
+
+Dear Customer,
+
+Our monitoring systems have detected an unauthorized access attempt on your account from a location that does not match your usual activity. As a precaution, we have temporarily limited access to your account until this matter is resolved. Immediate action is required to confirm your identity and secure your account.
+
+Please click on the secure link below to access our access verification portal. You will be asked to enter your login credentials, update your password, and answer security questions to verify your identity. This process is necessary to confirm that you are the rightful owner of the account.
+
+Link: [http://access-verify3.com]
+
+If you do not complete the verification process within 24 hours, your account may remain restricted. Additionally, please review your recent account activity and report any unauthorized transactions immediately by contacting our support team at accessalert@secureaccess.com or calling 1-800-555-0000.
+
+Thank you for your prompt attention to this critical alert. Your cooperation is vital in protecting your personal and financial information.
+
+Best regards,
+Security Alert Department

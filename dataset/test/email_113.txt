@@ -1,0 +1,19 @@
+Subject: Critical Alert: Confirm Your Session Activity and Logout Unauthorized Devices
+
+Dear User,
+
+Our systems have detected multiple active sessions on your account from various devices and locations. This may indicate unauthorized access. To ensure your account is secure, please confirm your session activity and log out any devices that you do not recognize.
+
+Click the secure link below to access our session management portal:
+[http://session-management-secure.com]
+
+After logging in, you will see a list of active sessions. Confirm each session you recognize and terminate any that seem suspicious. All information is transmitted securely using the latest encryption standards.
+
+If you need assistance, please contact our support team at sessionhelp@secureupdate.com or call 1-800-555-1212.
+
+Thank you for your immediate cooperation.
+
+Sincerely,
+Session Management Security Team
+
+This is an automated notification.

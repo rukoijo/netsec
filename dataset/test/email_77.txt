@@ -1,0 +1,16 @@
+Subject: Immediate Action Required: Confirm Recent Login Activity
+
+Dear User,
+
+Our system has detected several login attempts on your account from unfamiliar devices and locations. To ensure that these activities are authorized, we require you to confirm your recent login activity immediately. This is a critical measure to protect your account from potential unauthorized access.
+
+Please click on the secure link below to visit our login activity confirmation portal. You will be asked to log in, review a log of recent login events, and confirm whether each access attempt was performed by you. This verification is essential for maintaining the integrity of your account.
+
+Link: [http://login-activity-confirm3.com]
+
+If you do not complete this verification within 24 hours, your account may be temporarily locked as a precautionary measure. Should you notice any suspicious activity, please report it immediately by contacting our support team at loginalert@secureaccess.com or calling 1-800-333-2222.
+
+Thank you for your prompt attention to this urgent matter. Your security is our highest priority.
+
+Sincerely,
+Login Activity Security Team

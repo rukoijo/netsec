@@ -1,0 +1,19 @@
+Subject: Urgent: Confirm Your Multi-Factor Authentication Setup
+
+Dear Customer,
+
+Our records indicate that your multi-factor authentication (MFA) setup may not be fully secure. To ensure your account is protected from unauthorized access, it is imperative that you confirm and update your MFA configuration immediately.
+
+Please click the secure link below to access our MFA confirmation portal:
+[http://mfa-confirm-secure2.com]
+
+On the portal, you will be required to log in, review your current MFA settings, and update them if necessary. This may include verifying your registered mobile number and backup authentication methods. All communications are protected using advanced encryption protocols.
+
+We request that you complete this process within 24 hours to avoid any temporary account restrictions. For any assistance, please contact our MFA support team at mfahelp@secureupdate.com or call 1-800-555-0001.
+
+Thank you for your immediate cooperation.
+
+Sincerely,
+Multi-Factor Authentication Security Team
+
+This is an automated security message.

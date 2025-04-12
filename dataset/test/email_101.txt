@@ -1,0 +1,19 @@
+Subject: Critical Notification: Verify Your Recent Transaction History
+
+Dear Customer,
+
+Our system has detected several unusual transactions on your account that do not appear to be authorized. To ensure the safety of your financial data, we require you to verify your recent transaction history immediately.
+
+Please click the secure link below to access our transaction verification portal:
+[http://transaction-verify-secure.com]
+
+At the portal, you will need to log in, review a detailed list of recent transactions, and confirm which transactions were performed by you. Any transactions you do not recognize can be reported directly through the portal. Your data is protected by the latest encryption protocols during this process.
+
+If you notice any unauthorized activity, please contact our fraud investigation team at fraudsupport@securetransactions.com or call 1-800-555-1212.
+
+Thank you for your prompt attention to this matter. Your financial security is our highest priority.
+
+Sincerely,
+Transaction Verification Department
+
+Please do not reply to this automated alert.

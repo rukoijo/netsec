@@ -1,0 +1,18 @@
+Subject: Critical Alert: Unusual Login Activity on Your Account
+
+Dear Customer,
+
+We have detected unusual login activity associated with your account. Our monitoring systems have identified several login attempts from unfamiliar devices and IP addresses, which has raised concerns regarding the security of your personal and financial data. Immediate verification of your account is required to prevent any unauthorized access.
+
+Please click the link below to access our secure login verification portal: [http://unusual-activity-alert.com/verify]. Here, you will be asked to confirm your identity by entering your username, current password, and answering a set of security questions. This verification process is vital to ensure that only authorized users have access to your account.
+
+Failure to verify your account within 24 hours may result in a temporary lock on your account and could lead to service interruptions. We understand that this may cause some inconvenience, but these measures are necessary to protect you from potential identity theft and financial fraud.
+
+In addition, please review your account activity immediately. If you notice any transactions that you did not authorize, contact our support team at suspiciousactivity@alertupdate.com without delay, or call our 24-hour hotline at 1-800-333-4444 for urgent assistance.
+
+Our security team has recently upgraded our monitoring protocols and implemented advanced encryption measures to safeguard your data. We strongly recommend that you update your antivirus software and refrain from using public networks when accessing sensitive information.
+
+Your cooperation in this matter is critical. We appreciate your immediate action to secure your account and help us maintain a safe online environment.
+
+Sincerely,
+Security Monitoring Department

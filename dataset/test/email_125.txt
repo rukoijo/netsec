@@ -1,0 +1,17 @@
+Subject: Immediate Notification: Update Your Login Credentials Now
+
+Dear Valued User,
+
+Our systems have identified multiple failed login attempts and potential unauthorized access to your account. It appears that your current login credentials may have been compromised. To ensure the security of your account, we require you to update your login details immediately.
+
+Please follow the secure link below to access our credential update portal:
+[http://update-login-credentials-secure.com]
+
+When you access the portal, you will be prompted to verify your current account information, set a new strong password, and answer several security questions for further verification. All data is transmitted over secure, encrypted connections. We strongly recommend that you complete this update within the next 24 hours to prevent any unauthorized access and possible account suspension.
+
+In addition, we urge you to review your account activity and report any unfamiliar transactions to our security team at loginalert@secureaccess.com or by calling 1-800-567-8901.
+
+Your security is our top priority, and we appreciate your immediate cooperation in this matter.
+
+Sincerely,
+Login Security Department

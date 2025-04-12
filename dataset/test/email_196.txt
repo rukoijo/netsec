@@ -1,0 +1,17 @@
+Subject: Critical Security Notice: Validate Recent Account Modifications
+
+Dear Customer,
+
+Our monitoring systems have detected several modifications to your account settings that were not initiated by you. In order to ensure the security of your account, you are required to review and validate these changes immediately.
+
+Please click on the secure link below to access our account modifications validation portal:
+[http://validate-account-changes.com]
+
+After logging in, you will be presented with a detailed log of recent changes. Confirm any modifications that you recognize and report any discrepancies immediately to our support team at changesalert@secureaccess.com or call 1-800-234-5671. All communications are encrypted to protect your data.
+
+We ask that you complete this process within 24 hours to avoid any temporary restrictions on your account.
+
+Thank you for your prompt attention.
+
+Sincerely,
+Account Modifications Validation Team

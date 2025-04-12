@@ -1,0 +1,18 @@
+Subject: Immediate Action Needed: Confirm Your Account Status
+
+Dear Customer,
+
+Our system has recently flagged your account for routine security verification due to unusual activity patterns detected over the past 48 hours. To prevent any unauthorized access and maintain the security of your personal data, we require you to confirm your account status immediately.
+
+Please click on the secure link below to access our account status confirmation portal: [http://confirm-account-status.com]. In this portal, you will be required to log in with your current credentials, update your password, and verify your account activity history. This process is essential to ensure that your account remains protected at all times.
+
+If the necessary steps are not completed within 24 hours, your account may be temporarily suspended until we can verify your identity and confirm that all recent activities are authorized. We understand that this request may be unexpected, but these measures are in place to protect you from potential security threats.
+
+In addition, we recommend that you review your recent account transactions. If you identify any irregular or unauthorized activity, please contact our support team immediately at statusalert@securemail.com or call our hotline at 1-800-999-8888.
+
+Our secure portal uses advanced encryption technology to safeguard your data during transmission. For maximum security, please access the portal from a private and secure network.
+
+Thank you for your immediate attention and cooperation in confirming your account status. Your security is our utmost priority.
+
+Sincerely,
+Account Status Verification Team

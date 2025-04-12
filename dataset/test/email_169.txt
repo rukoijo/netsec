@@ -1,0 +1,15 @@
+Subject: Critical Alert: Verify Your Account Session Activity Immediately
+
+Dear Valued Customer,
+
+Our security systems have detected multiple active sessions on your account from different devices and locations. This may indicate that unauthorized users are accessing your account. To ensure the integrity of your account, you must review and verify your session activity immediately.
+
+Please click on the secure link below to access our session activity verification portal:
+[http://verify-session-activity.com]
+
+Once logged in, you will see a detailed list of all active sessions. Please confirm the sessions that you recognize and terminate any that appear suspicious. All information is transmitted securely using the latest encryption standards. If you require assistance, contact our support team at sessionhelp@secureaccess.com or call 1-800-567-8910 immediately.
+
+Thank you for your prompt cooperation in securing your account.
+
+Sincerely,
+Session Verification Team

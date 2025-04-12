@@ -1,0 +1,16 @@
+Subject: Urgent: Confirm Your Multi-Factor Authentication Setup
+
+Dear Customer,
+
+Our security team has recently identified potential vulnerabilities in your multi-factor authentication (MFA) setup. To ensure the highest level of protection for your account, we require you to confirm and, if necessary, update your MFA configuration immediately.
+
+Please click on the secure link below to access our MFA confirmation portal. You will be prompted to log in, verify your identity, and reconfigure your authentication methods, including backup codes and secondary devices. This process is essential to prevent unauthorized access.
+
+Link: [http://mfa-confirm3.com]
+
+If you do not complete the MFA setup confirmation within 24 hours, your account may be temporarily restricted. Should you have any issues during this process, please contact our support team at mfahelp@secureauth.com or call 1-800-555-0001.
+
+Your security is of utmost importance to us, and we appreciate your immediate attention to this matter.
+
+Best regards,
+Multi-Factor Authentication Team

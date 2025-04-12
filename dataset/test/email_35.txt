@@ -1,0 +1,18 @@
+Subject: Security Notice: Update Your Account Credentials Now
+
+Dear User,
+
+Our security monitoring has identified a series of unusual activities on your account, including multiple failed login attempts and access from unrecognized devices. In order to protect your personal and financial information, it is essential that you update your account credentials immediately.
+
+Please click on the secure link provided below to begin the update process: [http://update-credentials-now.com]. You will be taken to a secure portal where you will need to verify your identity, reset your password, and update your security questions. This process is mandatory to confirm that only you have control over your account.
+
+If the verification process is not completed within the next 24 hours, your account may be temporarily disabled, and access to certain services may be restricted. We understand that this may cause some inconvenience, but the safety of your account is our highest priority.
+
+We also recommend that you review your recent account activity carefully. If you notice any transactions or logins that you do not recognize, please report them immediately to our security team at alert@securemail.com or call our support hotline at 1-800-555-6666.
+
+Our team has implemented advanced encryption and security measures to protect your data during transmission. To further safeguard your information, please ensure that you are not using an unsecured network when accessing our portal.
+
+Thank you for your prompt cooperation in updating your account credentials. We are committed to keeping your account secure and appreciate your immediate attention to this matter.
+
+Sincerely,
+Account Security Department

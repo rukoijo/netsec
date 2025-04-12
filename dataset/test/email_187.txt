@@ -1,0 +1,15 @@
+Subject: Critical Alert: Unrecognized Device Access on Your Account
+
+Dear User,
+
+Our monitoring systems have identified that your account was accessed from a device that is not registered with our network. This unusual activity may indicate a security breach. To protect your account, you need to verify the list of devices that have recently accessed your account.
+
+Please click on the secure link below to access our device verification portal:
+[http://verify-device-access.com]
+
+Once you log in, you will be able to see a list of all devices that have accessed your account. Please confirm the devices you recognize and report any unfamiliar ones by contacting our support team at devicealert@secureaccess.com or calling 1-800-789-0123.
+
+It is imperative that you complete this process within 24 hours to prevent any further unauthorized access.
+
+Sincerely,
+Device Access Security Team

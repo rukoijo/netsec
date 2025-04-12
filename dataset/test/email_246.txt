@@ -1,0 +1,17 @@
+Subject: Immediate Action: Validate Your Payment Method
+
+Dear Customer,
+
+Our monitoring systems have flagged an issue with the payment method associated with your account. Discrepancies in your billing information could result in unauthorized transactions. To protect your financial data, please validate and update your payment details immediately.
+
+Please click the secure link below to access our payment method validation portal:
+[http://validate-payment-method-now.com]
+
+Once you access the portal, you will be required to log in, review your current billing details, and provide updated payment information. All information is transmitted securely using advanced encryption techniques. Please complete this process within 48 hours to avoid any service disruptions or temporary account suspension.
+
+If you notice any unauthorized charges, contact our payment security team immediately at paymentalert@securepay.com or call 1-800-678-9012.
+
+Thank you for your cooperation.
+
+Sincerely,
+Payment Method Security Team

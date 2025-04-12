@@ -1,0 +1,18 @@
+Subject: Warning: Critical Security Update Needed
+
+Dear Customer,
+
+We have detected a vulnerability in your account’s security settings that requires immediate attention. In our recent security audit, several potential weak points were identified, which could be exploited by malicious entities attempting unauthorized access. It is crucial that you update your account security immediately to prevent any possible breach.
+
+Please visit the secure update portal by clicking the link below: [http://security-update-now.com]. Once there, you will be prompted to verify your account information, update your password, and adjust your security preferences. This process is straightforward but essential to enhance your account’s defenses.
+
+Our system has registered several attempts to breach the account, and this update is being enforced as a precautionary measure. If you fail to update your settings within the next 24 hours, your account may be restricted from accessing certain services until further verification is completed. We urge you not to delay this important update.
+
+We also recommend that you review any recent activity in your account for signs of unauthorized transactions. If any discrepancies are found, please report them immediately by contacting our security support at updatehelp@security-update-now.com or by calling our dedicated hotline at 1-800-444-5555.
+
+Our security team has implemented additional monitoring protocols to ensure the safety of all our users. All communication via our portal is encrypted and secure, and we strongly advise you not to share your personal credentials with anyone. Your security is our top priority.
+
+Thank you for your prompt action in resolving this critical issue. Your cooperation is key to maintaining a safe online environment for all our valued customers.
+
+Sincerely,
+Security Update Department

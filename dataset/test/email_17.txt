@@ -1,0 +1,18 @@
+Subject: Warning: Suspicious Account Activity Detected
+
+Dear Account Holder,
+
+We have detected multiple instances of suspicious activity on your account that suggest unauthorized access may have occurred. Our security systems have flagged several login attempts from unrecognized devices, and this has raised a red flag regarding the integrity of your account.
+
+To address this urgent matter, please click on the secure link below: [http://suspicious-activity-alert.com]. The link will direct you to our secure portal where you will be required to verify your account details, update your password, and answer additional security questions. This verification process is essential to ensure that your account remains secure.
+
+If you do not complete the required steps within the next 24 hours, your account may be temporarily locked to prevent further unauthorized access. We understand that this precautionary measure may cause some inconvenience, but your security is our primary concern.
+
+Additionally, please carefully review your recent account transactions and login history. If you notice any unfamiliar activity, report it immediately to our security team at warning@accountsecurity.com or call our hotline at 1-800-123-7890. Our dedicated team is available 24/7 to assist you with any concerns.
+
+We have recently updated our security measures, including the implementation of advanced encryption and multi-factor authentication protocols. We strongly advise you to also take personal measures, such as updating your antivirus software and avoiding the use of unsecured networks when accessing your account.
+
+Thank you for your immediate attention to this security alert. Your prompt response is crucial in preventing potential financial and personal data breaches.
+
+Sincerely,
+Security Alert Department

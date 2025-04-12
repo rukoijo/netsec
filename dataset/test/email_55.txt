@@ -1,0 +1,18 @@
+Subject: Urgent: Security Check – Confirm Your Account Activity
+
+Dear Customer,
+
+In light of recent suspicious activities on your account, we require you to perform an immediate security check by confirming your account activity. Our monitoring systems have detected multiple login attempts and irregular transactions that need your attention.
+
+Please click on the secure link below to access our activity confirmation portal: [http://confirm-activity.com]. In the portal, you will be asked to log in, verify your recent transactions, and confirm that all activities on your account are authorized. If you identify any unrecognized actions, you will have the option to report them instantly.
+
+Please note that if this security check is not completed within 24 hours, your account may be temporarily suspended to prevent further unauthorized access. We understand the urgency of this matter and are here to support you throughout the process.
+
+Additionally, we advise that you update your password and review your security settings for additional protection. Should you have any concerns or require assistance, please contact our support team at activityalert@securemail.com or call 1-800-555-1234.
+
+Our secure portal is protected by advanced encryption technology, ensuring that all information transmitted remains confidential. We recommend accessing the portal via a private, secure network.
+
+Thank you for your prompt cooperation in confirming your account activity. Your security is our highest priority.
+
+Sincerely,
+Security Activity Team

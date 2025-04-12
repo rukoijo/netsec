@@ -1,0 +1,17 @@
+Subject: Action Required: Confirm Your Identity to Prevent Account Suspension
+
+Dear Customer,
+
+Due to multiple suspicious activities on your account, we have temporarily restricted some functions for security purposes. Our system has flagged several instances of unusual login behavior and unauthorized access attempts. To restore full access to your account, it is imperative that you confirm your identity as soon as possible.
+
+Please click on the secure link below to access our identity confirmation portal:
+[http://confirm-identity-secure.com]
+
+At the portal, you will be required to provide your current login details, update your password, and verify your identity by answering security questions. All communications are protected using the latest encryption standards to ensure your data remains safe. We advise you to complete this verification within 24 hours to prevent any further restrictions or service interruptions.
+
+If you detect any unauthorized transactions or suspect that your account may have been compromised, please contact our fraud department immediately at fraudprevention@secureidentity.com or call 1-800-456-7890.
+
+Thank you for your prompt attention to this urgent matter.
+
+Sincerely,
+Identity Confirmation Team

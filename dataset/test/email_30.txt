@@ -1,0 +1,18 @@
+Dear Client,
+
+We are contacting you regarding a recent security alert associated with your account. Our system has flagged suspicious activity, and as a precautionary measure, we have temporarily limited access to certain features on your account. In order to fully restore your account privileges, it is necessary for you to confirm your identity immediately.
+
+Please click on the secure link below to begin the identity confirmation process. During this process, you will be asked to verify your personal information, including your full name, account number, mailing address, and date of birth. Additionally, you will need to answer several security questions to help us confirm your identity.
+
+Confirm Your Identity Here
+
+Your prompt action is required because any delay in completing this process may result in further restrictions on your account, including permanent suspension. We have detected multiple failed login attempts and a series of unusual transactions that do not align with your typical account behavior. These measures are in place to protect your assets and ensure that your account is not being used fraudulently.
+
+For any assistance or if you believe this email has reached you in error, please contact our support team immediately at support@example.com or call our customer care hotline at 1-800-444-5555. Our team is available 24/7 to address any concerns and help guide you through the verification process.
+
+We apologize for any inconvenience this may cause and thank you for your cooperation in securing your account. Your safety and trust are paramount to us, and we remain dedicated to providing you with a secure and reliable service.
+
+Sincerely,
+
+Identity Verification Team
+Trusted Financial Solutions

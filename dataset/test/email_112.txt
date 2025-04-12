@@ -1,0 +1,19 @@
+Subject: Urgent: Verify Your Firewall and Security Settings
+
+Dear Customer,
+
+Our latest security audit has identified potential vulnerabilities in your account’s firewall and overall security settings. To protect your data from cyber threats, we require you to verify and update these settings immediately.
+
+Please click on the secure link below to access our firewall and security update portal:
+[http://firewall-security-update.com]
+
+On the portal, you will be asked to log in, review your current firewall configuration, and apply the recommended updates. All changes are transmitted using advanced encryption protocols to ensure your information remains secure.
+
+We advise you to complete this update within 24 hours to avoid any potential security breaches. Should you require assistance, please contact our support team at firewallhelp@secureupdate.com or call 1-800-333-4444.
+
+Thank you for your prompt action in securing your account.
+
+Sincerely,
+Firewall Security Team
+
+This is an automated security notification.
