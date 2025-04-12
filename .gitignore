@@ -2,3 +2,18 @@
 setup.py
 Nigerian_Fraud.csv
 test/
+email-classifier
+gpt_phishing_email
+bert_0.ipynb
+bert_2.ipynb
+bert.ipynb
+cnn.ipynb
+img.ipynb
+results
+kaggle phishing email dataset_Enron Ling CEAS Nazario Nigerian Fraud SpamAssassin.zip
+requirements.txt
+Spam Assassin Email Classification Dataset.zip
+spam_classifier_model.keras
+tokenizer.json
+tokenizer.pickle
+email-dataset
